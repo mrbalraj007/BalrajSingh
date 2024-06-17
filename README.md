@@ -1,3 +1,4 @@
+![logo](https://github.com/mrbalraj007/BalrajSingh/blob/main/Personal%20Profile%20New%20LinkedIn%20Banner.png)
 <h1 align="center">Hey Everyone 👋, I'm Balraj Singh</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/mrbalraj007/mrbalraj007/main/banner-3.png"> </div>
 <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector.</h3>
