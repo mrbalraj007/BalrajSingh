@@ -4,6 +4,7 @@
 
 I'm an **Infrastructure and Cloud Engineer** with a passion for designing, deploying, and managing scalable and reliable cloud solutions. My expertise spans across various cloud platforms, containerization technologies, and infrastructure as code (IaC) tools.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbalraj007&label=Profile%20views&color=0e75b6&style=flat" alt="mrbalraj007" /> </p>
 
 ## 🚀 Skills and Technologies
 
