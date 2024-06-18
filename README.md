@@ -53,4 +53,4 @@ When I'm not working on cloud infrastructure, I enjoy hiking, reading tech blogs
 ![](https://github-contributor-stats.vercel.app/api?username=mrbalraj007&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ### My GitHub Contributions
-![Snake animation](https://github.com/mrbalraj007/mrbalraj007/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mrbalraj007/BalrajSingh/blob/output/github-contribution-grid-snake.svg)
