@@ -1,7 +1,7 @@
 ![logo](https://github.com/mrbalraj007/BalrajSingh/blob/main/Personal%20Profile%20New%20LinkedIn%20Banner.png)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Balraj+Singh!;+A+DevOps+and+DevSecOps+Engineer!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Balraj+Singh!;+A+Cloud+Infrastructure+DevOps+and+DevSecOps+Engineer!" />
 </h1>
 
 I'm an **Infrastructure and Cloud Engineer** with a passion for designing, deploying, and managing scalable and reliable cloud solutions. My expertise spans across various cloud platforms, containerization technologies, and infrastructure as code (IaC) tools.
