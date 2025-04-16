@@ -45,7 +45,7 @@ When I'm not working on cloud infrastructure, I enjoy hiking, reading tech blogs
 - LinkedIn: [Balraj Singh](https://www.linkedin.com/in/sbalraj/)
 - Email: [mrbalraj@gmail.com](mailto:mrbalraj@gmail.com)
 - GitHub: [github.com/mrbalraj007](https://github.com/mrbalraj007)
-
+- Hashnode Blogs: [Balraj Singh's blog](https://balrajsingh.hashnode.dev/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrbalraj007&show_icons=true&locale=en&layout=compact" alt="mrbalraj007" /></p>
 
