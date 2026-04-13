@@ -33,9 +33,12 @@ I'm an **Infrastructure and Cloud Engineer** with a passion for designing, deplo
 
 ### Monitoring and Visualization
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 ### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Scripting-000000?style=for-the-badge&logo=shell&logoColor=white)
 
 ## ✨ Fun Fact
 When I'm not working on cloud infrastructure, I enjoy hiking, reading tech blogs, and experimenting with new technologies.
